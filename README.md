@@ -12,3 +12,7 @@
 ## [chd餐厅线上管理平台子系统](https://github.com/All-The-Best-for/chd_res_manage_Vue)
 
     Vue + Element-UI 实现，PC端网页浏览
+
+## 数据库文件
+
+    本项目使用MySql数据库，数据库导出文件见本项目具体文件
