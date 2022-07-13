@@ -5,11 +5,11 @@
 
     本项目主要使用Spring Boot + MyBatis-Plus完成
 
-## [chd餐厅线上点餐子系统](https://github.com/All-The-Best-for/chd_res_vue)
+## [配套项目 chd餐厅线上点餐子系统](https://github.com/All-The-Best-for/chd_res_vue)
 
     Vue + Mint-UI 实现，适配移动端网页浏览
 
-## [chd餐厅线上管理平台子系统](https://github.com/All-The-Best-for/chd_res_manage_Vue)
+## [配套项目 chd餐厅线上管理平台子系统](https://github.com/All-The-Best-for/chd_res_manage_Vue)
 
     Vue + Element-UI 实现，PC端网页浏览
 
